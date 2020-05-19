@@ -1,1 +1,1 @@
-Short exercise, how magnetic field crurve prton track in sFGD
+Short exercise, how magnetic field crurve proton track in sFGD
